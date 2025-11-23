@@ -1,0 +1,6 @@
+train : D:\Desktop\ml_projects\yolo\training\forest fire\train
+val : D:\Desktop\ml_projects\yolo\training\forest fire\val
+
+nc : 2
+
+names : ['fire','smoke']
